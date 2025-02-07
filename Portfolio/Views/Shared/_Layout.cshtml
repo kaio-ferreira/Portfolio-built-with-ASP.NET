@@ -13,26 +13,32 @@
 <body>
     <header class="header">
         <nav class="container-nav">
-            <h2 id="text-typed">Kaio Henrique</h2>
+            <div class="infos-container">
+                <img src="" alt="" class="profile-img">
+                <h2 id="text-typed">Kaio Henrique</h2>
+            </div>
             <ul class="nav-container-item">
-                <li class="nav-item">Home</li>
-                <li class="nav-item">Projects</li>
-                <li class="nav-item">Skills</li>
-                <li class="nav-item">Contact</li>
+                <li class="nav-item">
+                    <a href="">GitHub</a>
+                </li>
+                <li class="nav-item">
+                    <a href="">Linkedin</a>
+                </li>
+                <li class="nav-item">
+                    <a href="">Instagram</a>
+                </li>
             </ul>
         </nav>    
     </header>
 
-
-    <div class="container">
-        <main role="main" class="pb-3">
-            @RenderBody()
-        </main>
-    </div>
+    <main class="container-main">
+        @RenderBody();
+    </main>
+    
 
     <footer class="border-top footer text-muted">
         <div class="container">
-            &copy; 2025 - Portfolio - <a asp-area="" asp-controller="Home" asp-action="Privacy">Privacy</a>
+            &copy; 2025 - Portfolio Kaio Henrique
         </div>
     </footer>
     <script src="~/lib/jquery/dist/jquery.min.js"></script>

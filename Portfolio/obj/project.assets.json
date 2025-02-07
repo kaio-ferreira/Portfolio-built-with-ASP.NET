@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\monitor-kaio\\Documents\\Portfolio\\Portfolio-built-with-ASP.NET\\Portfolio\\Portfolio.csproj",
+      "projectUniqueName": "C:\\Users\\monitor-kaio\\Documents\\Portfolio-built-with-ASP.NET\\Portfolio\\Portfolio.csproj",
       "projectName": "Portfolio",
-      "projectPath": "C:\\Users\\monitor-kaio\\Documents\\Portfolio\\Portfolio-built-with-ASP.NET\\Portfolio\\Portfolio.csproj",
+      "projectPath": "C:\\Users\\monitor-kaio\\Documents\\Portfolio-built-with-ASP.NET\\Portfolio\\Portfolio.csproj",
       "packagesPath": "C:\\Users\\monitor-kaio\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\monitor-kaio\\Documents\\Portfolio\\Portfolio-built-with-ASP.NET\\Portfolio\\obj\\",
+      "outputPath": "C:\\Users\\monitor-kaio\\Documents\\Portfolio-built-with-ASP.NET\\Portfolio\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\monitor-kaio\\AppData\\Roaming\\NuGet\\NuGet.Config",
